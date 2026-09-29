@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: SITE_CONFIG.url,
   },
+  verification: {
+    google: "AVsppepH27PkSgEWoHAUQ4eTTzkmgub-w0DAazhq2eo",
+  },
 };
 
 export default function HomePage() {
