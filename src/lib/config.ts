@@ -10,7 +10,7 @@ export const SITE_CONFIG = {
   tagline: "Independent Flight Booking & Travel Assistance",
   description:
     "Get independent travel assistance for flight bookings, changes, cancellations, baggage, seating and travel questions. Call our travel assistance desk.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://flighttravelassistance.com",
+  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://airlinescustomerservicephonenumber.forum").replace(/\/$/, ""),
 
   // Phone
   phoneNumber: "+1 725 765 9837",
