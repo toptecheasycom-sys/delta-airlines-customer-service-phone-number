@@ -7,9 +7,9 @@
 export const SITE_CONFIG = {
   // Brand
   name: "Flight Travel Assistance",
-  tagline: "Independent Flight Booking & Travel Assistance",
+  tagline: "Delta Airlines Customer Service Phone Assistance & Travel Support",
   description:
-    "Get independent travel assistance for flight bookings, changes, cancellations, baggage, seating and travel questions. Call our travel assistance desk.",
+    "Need Delta Airlines customer service phone number help? Call our independent travel desk for 24/7 assistance with flight bookings, ticket changes, and baggage.",
   url: (process.env.NEXT_PUBLIC_SITE_URL || "https://airlinescustomerservicephonenumber.forum").replace(/\/$/, ""),
 
   // Phone

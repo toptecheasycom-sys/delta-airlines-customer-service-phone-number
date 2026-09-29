@@ -7,13 +7,25 @@ import Disclosure from "@/components/ui/Disclosure";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: `Flight Booking & Travel Assistance | Independent Travel Support`,
+  title: "Delta Airlines Customer Service Phone Number & Flight Support",
   description: SITE_CONFIG.description,
   alternates: {
     canonical: SITE_CONFIG.url,
   },
   verification: {
     google: "AVsppepH27PkSgEWoHAUQ4eTTzkmgub-w0DAazhq2eo",
+  },
+  openGraph: {
+    title: "Delta Airlines Customer Service Phone Number & Flight Support",
+    description: SITE_CONFIG.description,
+    url: SITE_CONFIG.url,
+    siteName: SITE_CONFIG.name,
+    images: [{ url: SITE_CONFIG.ogImage }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Delta Airlines Customer Service Phone Number & Flight Support",
+    description: SITE_CONFIG.description,
   },
 };
 
