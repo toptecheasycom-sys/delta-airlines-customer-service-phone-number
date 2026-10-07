@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines connects travelers from across the United States to Manila through seamless transpacific joint-venture flights via Seoul Incheon and SkyTeam partners. Learn how to plan your itinerary.",
-  publishedAt: "2024-11-20",
-  updatedAt: "2025-02-18",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-manila.jpg",

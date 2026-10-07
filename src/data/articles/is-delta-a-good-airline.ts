@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines is widely regarded as one of the top full-service carriers in the United States. Here's what travelers should know about flying Delta.",
-  publishedAt: "2024-08-15",
-  updatedAt: "2024-12-01",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airplane-tarmac.jpg",

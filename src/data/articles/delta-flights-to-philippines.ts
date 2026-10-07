@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects travelers to the Philippines through seamless SkyTeam joint-venture partner flights via Seoul Incheon and Taipei. Here is how to plan your trip.",
-  publishedAt: "2024-11-25",
-  updatedAt: "2025-02-15",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-philippines.jpg",

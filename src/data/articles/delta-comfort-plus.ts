@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Comfort+ delivers extra legroom, dedicated overhead bins, early boarding, and complimentary alcoholic beverages. Explore amenities, pricing, and whether upgrading makes sense.",
-  publishedAt: "2024-04-18",
-  updatedAt: "2024-11-20",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-comfort-plus-cabin.jpg",

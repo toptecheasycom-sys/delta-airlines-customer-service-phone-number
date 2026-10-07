@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines participates in Fair Chance hiring initiatives, evaluating applicants on an individual basis. However, airport security roles and flight crew positions remain subject to strict 10-year TSA disqualification standards.",
-  publishedAt: "2024-09-20",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/airport-security-access-badge.jpg",

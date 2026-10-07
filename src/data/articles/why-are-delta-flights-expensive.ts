@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta deliberately commands a revenue premium over domestic competitors. Learn the operational and economic reasons behind Delta's higher ticket prices.",
-  publishedAt: "2024-09-12",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/business-traveler-delta-gate.jpg",

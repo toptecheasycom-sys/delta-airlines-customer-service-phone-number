@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta charges $150 for a third checked bag and $200 for each additional bag on domestic flights. Learn about overweight fees, size limits, and waiver rules.",
-  publishedAt: "2024-08-28",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/checked-baggage-weigh-scale.jpg",

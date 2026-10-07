@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "While Delta does not offer an open student discount code on its website, college students can access discounted fares through educational platforms and group programs.",
-  publishedAt: "2024-11-18",
-  updatedAt: "2025-02-11",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-student-discounts.jpg",

@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines and Alaska Airlines once maintained a close codeshare alliance. Learn why their partnership ended, how loyalty miles work today, and where travelers stand.",
-  publishedAt: "2024-06-12",
-  updatedAt: "2024-12-10",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-alaska-partnership-history.jpg",

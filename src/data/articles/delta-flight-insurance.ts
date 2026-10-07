@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta flight insurance through Allianz provides financial protection against medical emergencies, severe weather disruptions, and lost baggage. Discover coverage details, costs, and claim steps.",
-  publishedAt: "2024-07-16",
-  updatedAt: "2024-12-22",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/travel-insurance-document.jpg",

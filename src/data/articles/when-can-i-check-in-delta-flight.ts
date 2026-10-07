@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "You can check in for a Delta Air Lines flight starting exactly 24 hours before your scheduled departure time, both online and via the Fly Delta app.",
-  publishedAt: "2024-10-02",
-  updatedAt: "2024-12-12",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/when-can-i-check-in-delta.jpg",

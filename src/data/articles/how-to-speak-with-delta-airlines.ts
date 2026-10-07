@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Discover how to reach a live representative at Delta Air Lines through official customer service phone numbers, app chat, social media, and airport desks.",
-  publishedAt: "2024-11-02",
-  updatedAt: "2025-02-01",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/how-to-speak-with-delta-airlines.jpg",

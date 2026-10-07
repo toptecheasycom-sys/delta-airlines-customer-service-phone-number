@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "You can print your Delta Air Lines boarding pass online at delta.com starting 24 hours before departure, at airport self-service kiosks, or at the airport ticket counter.",
-  publishedAt: "2024-10-05",
-  updatedAt: "2024-12-15",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/print-delta-boarding-pass.jpg",

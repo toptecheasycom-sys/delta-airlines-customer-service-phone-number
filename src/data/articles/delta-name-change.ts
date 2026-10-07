@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta does not allow transferring tickets to another person, but permits minor name corrections and legal name updates. Learn how to fix a name on your Delta ticket.",
-  publishedAt: "2024-11-08",
-  updatedAt: "2025-02-04",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-name-change.jpg",

@@ -228,6 +228,15 @@ export default async function ArticlePage({
               <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500">
                 <span>By {article.author}</span>
                 <span>•</span>
+                <time dateTime={article.publishedAt}>
+                  Published{" "}
+                  {new Date(article.publishedAt).toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+                <span>•</span>
                 <time dateTime={article.updatedAt}>
                   Updated{" "}
                   {new Date(article.updatedAt).toLocaleDateString("en-US", {

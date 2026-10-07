@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta One is Delta's top-tier business class featuring lie-flat seats, chef-curated dining, and airport lounge access. Here is how to book, upgrade, and experience Delta One.",
-  publishedAt: "2024-04-25",
-  updatedAt: "2024-11-22",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-one-suite-seat.jpg",

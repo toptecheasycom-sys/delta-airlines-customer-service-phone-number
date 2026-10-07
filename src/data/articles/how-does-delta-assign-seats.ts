@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta seat assignments depend heavily on the fare class you purchase. Here is how seat selection works for Main Cabin, Basic Economy auto-assignment, and families traveling together.",
-  publishedAt: "2024-05-02",
-  updatedAt: "2024-11-25",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airplane-seating-chart.jpg",

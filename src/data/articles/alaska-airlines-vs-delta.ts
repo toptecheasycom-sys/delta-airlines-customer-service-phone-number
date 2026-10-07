@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Alaska Airlines and Delta clash for West Coast dominance, especially at their shared Seattle hub. Compare their routes, in-flight cabins, loyalty programs, and service reputations.",
-  publishedAt: "2024-06-05",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-01",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/alaska-vs-delta-planes.jpg",

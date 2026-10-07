@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects travelers to Israel through direct flights from New York-JFK and seamless SkyTeam connections through European hubs like Paris and Amsterdam.",
-  publishedAt: "2024-11-12",
-  updatedAt: "2025-02-06",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-israel.jpg",

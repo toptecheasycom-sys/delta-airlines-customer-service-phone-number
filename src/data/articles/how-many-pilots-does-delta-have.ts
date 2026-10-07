@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines employs approximately 17,000 active mainline pilots across seven primary crew domiciles, operating one of the largest commercial passenger fleets in the world.",
-  publishedAt: "2024-09-14",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flight-crew-concourse.jpg",

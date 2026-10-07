@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines does not offer nonstop flights to Bali, but you can book coordinated partner journeys through major Asian hubs like Seoul and Taipei. Here is how it works.",
-  publishedAt: "2024-10-15",
-  updatedAt: "2025-01-20",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-bali.jpg",

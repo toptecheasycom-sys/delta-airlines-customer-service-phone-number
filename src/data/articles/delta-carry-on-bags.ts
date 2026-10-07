@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta allows one carry-on bag and one personal item free of charge for all passengers. Learn the rules, overhead bin tips, and packing strategies for your flight.",
-  publishedAt: "2024-08-26",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/traveler-walking-through-airport-carry-on.jpg",

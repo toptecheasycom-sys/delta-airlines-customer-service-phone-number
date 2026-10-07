@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "If the Delta website or Fly Delta app is down, learn how to distinguish local browser glitches from nationwide system outages and get step-by-step troubleshooting fixes.",
-  publishedAt: "2024-11-06",
-  updatedAt: "2025-02-03",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/why-is-delta-not-working.jpg",

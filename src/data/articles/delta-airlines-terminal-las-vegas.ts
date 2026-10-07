@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of Terminal 1 at Harry Reid International Airport (LAS) in Las Vegas. Passengers check in at Terminal 1, take the automated tram, and board from Concourse D.",
-  publishedAt: "2024-09-20",
-  updatedAt: "2024-11-30",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-las-vegas.jpg",

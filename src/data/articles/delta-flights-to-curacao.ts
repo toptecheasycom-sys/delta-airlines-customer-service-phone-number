@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates convenient nonstop flights to Curacao from Atlanta, opening up access to the Dutch Caribbean's vibrant culture, diving, and beaches.",
-  publishedAt: "2024-11-01",
-  updatedAt: "2025-01-30",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-curacao.jpg",

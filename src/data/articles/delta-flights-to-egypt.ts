@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects travelers to Egypt through seamless SkyTeam partnerships via European hubs like Paris and Amsterdam, landing directly in historic Cairo.",
-  publishedAt: "2024-12-02",
-  updatedAt: "2025-02-22",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-egypt.jpg",

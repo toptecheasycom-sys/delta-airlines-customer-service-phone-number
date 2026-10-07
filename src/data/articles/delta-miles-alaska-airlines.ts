@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Travelers can no longer earn or redeem Delta SkyMiles on Alaska Airlines flights. Discover the history behind the partnership breakup and where you can use your miles today.",
-  publishedAt: "2024-11-05",
-  updatedAt: "2025-02-02",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-miles-alaska-airlines.jpg",

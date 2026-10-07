@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates frequent nonstop flights to San Juan, Puerto Rico from hubs like Atlanta, New York-JFK, and Boston. Here is everything you need to know before you fly.",
-  publishedAt: "2024-10-25",
-  updatedAt: "2025-01-26",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-puerto-rico.jpg",

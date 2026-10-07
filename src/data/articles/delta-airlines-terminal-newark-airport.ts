@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of the brand-new Terminal A at Newark Liberty International Airport (EWR). Passenger check-in is on Level 3, flights depart from Terminal A gates, and baggage claim is on Level 1.",
-  publishedAt: "2024-09-24",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-newark.jpg",

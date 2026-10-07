@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates nine primary hubs across the United States: Atlanta, Detroit, Minneapolis-St. Paul, Salt Lake City, New York-JFK, New York-LaGuardia, Boston, Los Angeles, and Seattle.",
-  publishedAt: "2024-09-26",
-  updatedAt: "2024-12-07",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airlines-hubs.jpg",

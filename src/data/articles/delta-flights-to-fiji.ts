@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines does not fly nonstop to Fiji, but travelers can book seamless connections through partner airlines and Pacific hubs. Here is how to plan your journey to Nadi.",
-  publishedAt: "2024-10-12",
-  updatedAt: "2025-01-18",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-fiji.jpg",

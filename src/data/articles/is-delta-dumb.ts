@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "When passengers search 'is Delta dumb,' they are usually venting acute travel frustration. Here is an objective look at common complaints, IT outages, and how to resolve flight issues.",
-  publishedAt: "2024-09-30",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/frustrated-traveler-airport-terminal.jpg",

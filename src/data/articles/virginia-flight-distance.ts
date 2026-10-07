@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Flight distance to Virginia varies by origin and destination airport. Discover air mileage, flight times from across the country, airport options, and wind pattern effects.",
-  publishedAt: "2024-11-01",
-  updatedAt: "2025-01-30",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/virginia-flight-distance.jpg",

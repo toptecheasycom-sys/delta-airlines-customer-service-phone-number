@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of Terminal 3 at London Heathrow Airport (LHR), co-located with joint venture partner Virgin Atlantic. Check-in is located in Zones A and B on the Ground Floor.",
-  publishedAt: "2024-09-22",
-  updatedAt: "2024-12-02",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-heathrow.jpg",

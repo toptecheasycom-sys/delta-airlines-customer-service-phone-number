@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta operates seasonal nonstop flights from Los Angeles to Auckland, connecting travelers to New Zealand with ease. Here is what to know about schedules, cabins, and entry rules.",
-  publishedAt: "2024-10-22",
-  updatedAt: "2025-01-25",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-new-zealand.jpg",

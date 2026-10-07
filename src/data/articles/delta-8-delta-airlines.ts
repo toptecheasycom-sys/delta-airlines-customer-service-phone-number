@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Flying with Delta-8 THC on Delta Air Lines involves significant legal risks due to overlapping federal TSA guidelines, conflicting state laws, and strict airline vape bans.",
-  publishedAt: "2024-10-02",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/airport-security-carry-on-xray.jpg",

@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Documented facts on Delta Air Lines' historical accidents, including the landmark 1985 Flight 191 event, regional incidents, and modern safety advancements.",
-  publishedAt: "2024-09-05",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/aviation-safety-historical-archive.jpg",

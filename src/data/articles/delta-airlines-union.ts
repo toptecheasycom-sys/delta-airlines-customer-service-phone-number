@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates with a largely non-union workforce, with the notable exception of its mainline pilots represented by ALPA, distinguishing it from legacy peers like United and American.",
-  publishedAt: "2024-09-22",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/airline-labor-negotiation-meeting.jpg",

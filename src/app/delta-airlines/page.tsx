@@ -93,6 +93,18 @@ export default function DeltaHubPage() {
             href={`/${article.slug}`}
             className="block p-5 bg-white rounded-xl border border-gray-200 hover:border-blue-accent hover:shadow-md transition-all"
           >
+            <div className="flex items-center justify-between mb-2">
+              <span className="inline-block text-xs font-semibold text-blue-accent uppercase tracking-wider">
+                {article.category}
+              </span>
+              <span className="text-xs text-gray-500">
+                {new Date(article.publishedAt).toLocaleDateString("en-US", {
+                  month: "short",
+                  day: "numeric",
+                  year: "numeric",
+                })}
+              </span>
+            </div>
             <h3 className="font-bold text-navy mb-2 hover:text-blue-accent transition-colors">
               {article.title}
             </h3>

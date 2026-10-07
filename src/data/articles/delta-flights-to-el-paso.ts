@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects travelers to El Paso International Airport (ELP) through key hubs in Atlanta and Salt Lake City. Learn about schedules, aircraft, airport amenities, and travel logistics.",
-  publishedAt: "2024-11-28",
-  updatedAt: "2025-02-12",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-el-paso.jpg",

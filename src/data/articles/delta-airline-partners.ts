@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects to hundreds of global destinations through SkyTeam and international joint ventures. Learn how partner flights earn SkyMiles and deliver elite travel perks.",
-  publishedAt: "2024-06-18",
-  updatedAt: "2024-12-12",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-skyteam-partners.jpg",

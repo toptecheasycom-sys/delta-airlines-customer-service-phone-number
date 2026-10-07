@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates primarily out of Terminal A at Boston Logan International Airport (BOS), utilizing both the Main Concourse and the Satellite Concourse. Non-precleared international arrivals clear customs in Terminal E.",
-  publishedAt: "2024-09-14",
-  updatedAt: "2024-11-25",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-boston.jpg",

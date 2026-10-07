@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines and American Airlines dominate U.S. commercial aviation. Here is an objective comparison of their routes, cabin products, loyalty perks, and fleet reliability.",
-  publishedAt: "2024-05-18",
-  updatedAt: "2024-11-30",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-vs-american-airplanes.jpg",

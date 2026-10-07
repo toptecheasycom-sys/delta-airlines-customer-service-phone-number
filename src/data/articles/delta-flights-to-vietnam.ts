@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines connects travelers to Vietnam through SkyTeam alliance partners like Vietnam Airlines and Korean Air. Here is what to know about booking routes, layovers, and visas.",
-  publishedAt: "2024-10-18",
-  updatedAt: "2025-01-22",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-vietnam.jpg",

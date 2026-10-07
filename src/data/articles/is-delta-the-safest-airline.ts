@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Aviation safety analysts consistently rank Delta among the safest airlines worldwide. Learn how Delta's safety metrics compare against leading global carriers.",
-  publishedAt: "2024-08-22",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/commercial-jetliner-sky-safety.jpg",

@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "A factual, historical timeline of notable accidents and incidents involving Delta Air Lines, examining NTSB findings and subsequent global aviation reforms.",
-  publishedAt: "2024-09-08",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/aviation-historical-timeline-documents.jpg",

@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "The domain deltavi.it represents an Italian business entity and has no relationship, affiliation, or connection to Delta Air Lines, whose official worldwide website is delta.com.",
-  publishedAt: "2024-09-26",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/computer-screen-domain-search.jpg",

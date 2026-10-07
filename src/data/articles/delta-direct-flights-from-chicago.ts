@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta operates frequent daily nonstop flights from Chicago O'Hare and Midway to its major domestic hubs. Explore nonstop destinations, flight durations, and connection options.",
-  publishedAt: "2024-07-10",
-  updatedAt: "2024-12-20",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/chicago-skyline-airport.jpg",

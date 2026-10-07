@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates entirely out of Terminal 5 at Chicago O'Hare International Airport (ORD). Flights arrive and depart from Concourse M, with check-in on the Upper Level and baggage claim on the Lower Level.",
-  publishedAt: "2024-09-16",
-  updatedAt: "2024-11-28",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-ohare.jpg",

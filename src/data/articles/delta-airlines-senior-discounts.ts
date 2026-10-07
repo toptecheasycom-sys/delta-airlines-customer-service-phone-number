@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Airlines senior discounts cannot be booked online. Discover how travelers aged 65 and older can find, request, and book specialized senior fares over the phone.",
-  publishedAt: "2024-11-15",
-  updatedAt: "2025-02-14",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airlines-senior-discounts.jpg",

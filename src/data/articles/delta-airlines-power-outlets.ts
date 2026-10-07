@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta provides in-seat 110V power outlets and USB ports on nearly all mainline aircraft. Learn how to locate outlets, wattage limits, and charging tips.",
-  publishedAt: "2024-09-18",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/in-seat-power-outlet-airplane.jpg",

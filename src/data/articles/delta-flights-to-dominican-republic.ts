@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates frequent nonstop flights to the Dominican Republic, serving Punta Cana, Santo Domingo, and Santiago from major East Coast and Midwest hubs.",
-  publishedAt: "2024-11-15",
-  updatedAt: "2025-02-10",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-dominican-republic.jpg",

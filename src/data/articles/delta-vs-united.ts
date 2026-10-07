@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines and United Airlines compete head-to-head across the globe. Compare their hub networks, aircraft interiors, Basic Economy rules, and premium business cabins.",
-  publishedAt: "2024-05-24",
-  updatedAt: "2024-12-02",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-01",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-vs-united-fleet.jpg",

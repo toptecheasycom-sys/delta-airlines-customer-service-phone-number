@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines pilots earn some of the highest compensation packages in commercial aviation, with annual earnings ranging from $110,000 for new First Officers to over $450,000 for senior Captains.",
-  publishedAt: "2024-09-12",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airplane-cockpit.jpg",

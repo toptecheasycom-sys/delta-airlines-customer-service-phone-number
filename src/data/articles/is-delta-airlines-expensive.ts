@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta often charges higher base fares than budget airlines and competitors, but included perks like free carry-ons and seatback entertainment alter the equation.",
-  publishedAt: "2024-08-20",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-ticket-pricing-laptop.jpg",

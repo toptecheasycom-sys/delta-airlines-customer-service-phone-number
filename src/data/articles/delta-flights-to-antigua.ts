@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates convenient nonstop flights to Antigua from Atlanta and New York-JFK, especially during peak Caribbean winter getaways. Here is your complete guide.",
-  publishedAt: "2024-10-28",
-  updatedAt: "2025-01-28",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-antigua.jpg",

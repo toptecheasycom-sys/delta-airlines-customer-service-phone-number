@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines and Air France operate one of the most integrated joint ventures in commercial aviation. Here is how their codeshares, SkyMiles reciprocity, and Paris transfers work.",
-  publishedAt: "2024-06-25",
-  updatedAt: "2024-12-15",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/air-france-delta-airplanes.jpg",

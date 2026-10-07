@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates convenient scheduled service from Bishop International Airport (FNT) in Flint, Michigan, connecting Mid-Michigan travelers directly to its Atlanta mega-hub.",
-  publishedAt: "2024-10-06",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/regional-airport-terminal-exterior.jpg",

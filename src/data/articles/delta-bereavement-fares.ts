@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines remains one of the few carriers offering bereavement fares for immediate family emergencies. Discover eligibility rules, required documents, and booking steps.",
-  publishedAt: "2024-11-26",
-  updatedAt: "2025-02-14",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-bereavement-fares.jpg",

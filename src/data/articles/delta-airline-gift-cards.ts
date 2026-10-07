@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines gift cards never expire and carry zero fees. Learn how to buy and redeem physical or e-gift cards, navigate the 72-hour rule, and avoid common restrictions.",
-  publishedAt: "2024-11-22",
-  updatedAt: "2025-02-16",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airline-gift-cards.jpg",

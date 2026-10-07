@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines consistently ranks as the most reliable legacy carrier in the United States. Discover how Delta handles delays, cancellations, and on-time performance.",
-  publishedAt: "2024-08-18",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flight-operations-tower.jpg",

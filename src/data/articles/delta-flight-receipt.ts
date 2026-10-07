@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "You can find, download, and print your Delta flight receipt online at delta.com using your 13-digit ticket number (starting with 006) or 6-character confirmation code under My Trips or the Receipts search page.",
-  publishedAt: "2024-10-08",
-  updatedAt: "2024-12-18",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flight-receipt.jpg",

@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta provides free earbuds on international flights and noise-canceling headsets in Delta One. Learn about headphone jacks, Bluetooth compatibility, and bringing your own gear.",
-  publishedAt: "2024-09-15",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-seatback-headphones-earbuds.jpg",

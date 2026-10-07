@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Becoming a Delta Air Lines pilot requires an FAA Airline Transport Pilot certificate, at least 1,500 flight hours, substantial multi-engine turbine experience, and passing competitive simulator evaluations.",
-  publishedAt: "2024-09-16",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/flight-student-cockpit-training.jpg",

@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of Terminal 3 (John S. McCain III Terminal) at Phoenix Sky Harbor International Airport (PHX), departing from Concourse F (Gates F1–F15) with check-in on Level 1.",
-  publishedAt: "2024-09-15",
-  updatedAt: "2024-11-26",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-phoenix.jpg",

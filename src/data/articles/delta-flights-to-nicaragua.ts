@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates convenient nonstop flights to Managua, Nicaragua from its Atlanta hub, offering easy connections across North America.",
-  publishedAt: "2024-11-20",
-  updatedAt: "2025-02-12",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-nicaragua.jpg",

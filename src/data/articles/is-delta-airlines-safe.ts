@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines holds one of the strongest safety records in modern commercial aviation. Learn about Delta's safety audits, fleet maintenance, and operational standards.",
-  publishedAt: "2024-08-15",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flight-safety-inspection.jpg",

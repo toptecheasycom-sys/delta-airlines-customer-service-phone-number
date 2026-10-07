@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "JetBlue offers industry-leading coach legroom and celebrated Mint suites, while Delta delivers a massive global network and unmatched operational reliability. See how they compare.",
-  publishedAt: "2024-05-30",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-vs-jetblue-aircraft.jpg",

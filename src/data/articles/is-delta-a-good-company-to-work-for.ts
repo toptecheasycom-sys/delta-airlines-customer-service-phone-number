@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines consistently ranks among the top employers in the transportation industry, offering renowned profit-sharing payouts, non-revenue flight privileges, and competitive 401(k) retirement benefits.",
-  publishedAt: "2024-09-18",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-employee-team-tarmac.jpg",

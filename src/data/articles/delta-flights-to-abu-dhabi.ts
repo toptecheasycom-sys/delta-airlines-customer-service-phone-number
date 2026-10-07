@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects travelers to Abu Dhabi through transatlantic flights and seamless SkyTeam partner connections via European hubs like Paris. Here is how to book.",
-  publishedAt: "2024-11-28",
-  updatedAt: "2025-02-18",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-abu-dhabi.jpg",

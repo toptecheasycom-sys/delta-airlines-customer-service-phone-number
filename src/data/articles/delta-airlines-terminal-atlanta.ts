@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of both the Domestic Terminal South and the Maynard H. Jackson Jr. International Terminal at Atlanta Hartsfield-Jackson Airport, spanning Concourses T, A, B, C, D, E, and F.",
-  publishedAt: "2024-09-10",
-  updatedAt: "2024-11-20",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-atlanta.jpg",

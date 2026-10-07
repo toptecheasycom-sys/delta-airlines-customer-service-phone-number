@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta connects North America to more than 50 countries worldwide. Explore international route gateways, cabin tiers from economy to Delta One, and overseas baggage rules.",
-  publishedAt: "2024-07-02",
-  updatedAt: "2024-12-18",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-international-widebody.jpg",

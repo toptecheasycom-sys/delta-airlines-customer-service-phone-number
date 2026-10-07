@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Discover what items are permitted in your Delta carry-on bag. Learn TSA liquid limits, battery rules, food guidelines, and prohibited cabin items.",
-  publishedAt: "2024-08-30",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/tsa-security-screening-bins.jpg",

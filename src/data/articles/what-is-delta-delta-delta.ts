@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Delta Delta, commonly known as Tri Delta, is an international collegiate women's fraternity founded in 1888, with no connection to Delta Air Lines.",
-  publishedAt: "2024-09-28",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/university-campus-quad-students.jpg",

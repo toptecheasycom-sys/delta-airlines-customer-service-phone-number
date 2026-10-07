@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines does not operate regular nonstop flights to Trinidad, but travelers can book coordinated connections via partner airlines and hubs to reach Port of Spain.",
-  publishedAt: "2024-11-08",
-  updatedAt: "2025-02-04",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-flights-to-trinidad.jpg",

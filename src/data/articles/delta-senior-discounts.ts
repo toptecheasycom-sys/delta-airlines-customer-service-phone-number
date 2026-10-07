@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta does not provide a universal, across-the-board senior discount, but maintains select senior fares in designated markets for travelers 65 and older. Here is the full policy breakdown.",
-  publishedAt: "2024-11-12",
-  updatedAt: "2025-02-10",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-senior-discounts.jpg",

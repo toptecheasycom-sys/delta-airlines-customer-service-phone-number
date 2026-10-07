@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Yes, Seattle-Tacoma International Airport (SEA) is an official primary hub for Delta Air Lines, serving as its premier Pacific Northwest international gateway to Asia and Europe.",
-  publishedAt: "2024-09-30",
-  updatedAt: "2024-12-10",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/is-seattle-a-delta-hub.jpg",

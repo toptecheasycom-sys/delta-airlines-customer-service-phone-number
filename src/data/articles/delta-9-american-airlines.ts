@@ -25,8 +25,8 @@ const article: Article = {
   airline: "american",
   excerpt:
     "Flying with Delta-9 THC on American Airlines is prohibited under federal law, regardless of state legalization. Learn how TSA screening, airport police, and carrier rules apply.",
-  publishedAt: "2024-10-04",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/airport-security-checkpoint-lane.jpg",

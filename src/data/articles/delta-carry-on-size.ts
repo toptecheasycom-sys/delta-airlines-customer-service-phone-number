@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta allows carry-on bags up to 22 x 14 x 9 inches (45 linear inches) with no weight limit on most routes. Learn how to measure your bag and avoid gate check fees.",
-  publishedAt: "2024-08-25",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-05",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/traveler-measuring-carry-on-luggage.jpg",

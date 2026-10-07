@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Both Delta and American Airlines maintain world-class safety records under rigorous FAA oversight. Compare fleets, safety audits, pilot training, and modern safety data.",
-  publishedAt: "2024-09-22",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-06",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-american-planes-airport-tarmac.jpg",

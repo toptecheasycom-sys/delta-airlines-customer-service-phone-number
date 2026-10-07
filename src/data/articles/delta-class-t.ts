@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Class T is a discounted Main Cabin economy fare that includes free advance seat selection, full ticket change flexibility, and SkyMiles earning. Here is what you need to know.",
-  publishedAt: "2024-05-10",
-  updatedAt: "2024-11-28",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-ticket-boarding-pass.jpg",

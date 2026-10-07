@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines SkyMiles never expire due to inactivity. Learn how Delta's policy works, what happens to Medallion status, and how to protect and redeem your miles.",
-  publishedAt: "2024-11-10",
-  updatedAt: "2025-02-05",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/do-delta-airline-miles-expire.jpg",

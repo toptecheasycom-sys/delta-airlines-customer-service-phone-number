@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines offers dedicated military fares, generous free baggage allowances up to 5 bags, and priority boarding for active duty service members and dependents.",
-  publishedAt: "2024-11-14",
-  updatedAt: "2025-02-08",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-military-discounts.jpg",

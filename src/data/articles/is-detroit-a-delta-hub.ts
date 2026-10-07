@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Yes, Detroit Metropolitan Wayne County Airport (DTW) is a major primary hub for Delta Air Lines, serving as its premier Midwest gateway and key connection point for transatlantic and Asian flights.",
-  publishedAt: "2024-09-28",
-  updatedAt: "2024-12-09",
+  publishedAt: "2026-10-02",
+  updatedAt: "2026-10-02",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/is-detroit-a-delta-hub.jpg",

@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta allows one carry-on bag and one personal item free of charge for all travelers, even in Basic Economy. Compare Delta's fees with other major airlines.",
-  publishedAt: "2024-09-02",
-  updatedAt: "2024-12-05",
+  publishedAt: "2026-10-05",
+  updatedAt: "2026-10-06",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/free-carry-on-luggage-airport.jpg",

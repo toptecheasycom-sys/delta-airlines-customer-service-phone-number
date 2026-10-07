@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines was founded by Collett Everman (C.E.) Woolman, who transformed a 1924 Louisiana crop-dusting operation into one of the largest passenger airlines in the world.",
-  publishedAt: "2024-09-24",
-  updatedAt: "2024-12-08",
+  publishedAt: "2026-10-01",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/vintage-biplane-delta-history.jpg",

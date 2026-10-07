@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of Terminal B at Orlando International Airport (MCO), using Airside 4 (Gates 70–99). Check-in and ticketing are on Level 3, with baggage claim on Level 2.",
-  publishedAt: "2024-09-12",
-  updatedAt: "2024-11-22",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-orlando.jpg",

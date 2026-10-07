@@ -25,8 +25,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Flight distance to Kansas varies based on your origin and destination airport. Explore flight times, air mileage, airport choices, and seasonal wind patterns.",
-  publishedAt: "2024-11-04",
-  updatedAt: "2025-01-28",
+  publishedAt: "2026-10-04",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/kansas-flight-distance.jpg",

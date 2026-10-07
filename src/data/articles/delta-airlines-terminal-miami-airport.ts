@@ -26,8 +26,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Air Lines operates out of the South Terminal at Miami International Airport (MIA), utilizing Concourse H (Gates H3–H17). Check-in and ticketing are on Level 2, with baggage claim on Level 1.",
-  publishedAt: "2024-09-18",
-  updatedAt: "2024-11-29",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-04",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-terminal-miami.jpg",

@@ -24,8 +24,8 @@ const article: Article = {
   airline: "delta",
   excerpt:
     "Delta Preferred Seating gives Main Cabin travelers access to better seat locations, including exit rows and front-of-cabin rows. Here is how it works, what it costs, and whether it is worth paying for.",
-  publishedAt: "2024-04-10",
-  updatedAt: "2024-11-15",
+  publishedAt: "2026-10-03",
+  updatedAt: "2026-10-03",
   author: "Travel Assistance Editorial Team",
   featuredImage: {
     src: "/images/articles/delta-airplane-seats.jpg",
